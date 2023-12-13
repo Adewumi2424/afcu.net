@@ -1,0 +1,92 @@
+[🍁 MRWEEBEE | AMERICA FIRST CU  | CLIENT : 🍁]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : 103y649
+# PASSWORD   : sgjdfkk
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+# LANGUAGE   : 
+# BROWSER    : Firefox
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 105.112.146.162
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : Lagos
+# TIMEZONE   : Africa/Lagos, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : Nigeria, NG
+# REGION     : 
+# DATE       : 07:03:47 28/09/2022
+# TIME       : 
+# ISP        : 
+**********************************************
+[🍁 MRWEEBEE | AMERICA FIRST CU  | CLIENT : 🍁]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : test
+# PASSWORD   : test
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+# LANGUAGE   : 
+# BROWSER    : Handheld Browser
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 185.203.218.115
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : Los Angeles
+# TIMEZONE   : America/Los_Angeles, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : United States, US
+# REGION     : 
+# DATE       : 07:10:52 28/09/2022
+# TIME       : 
+# ISP        : 
+**********************************************
+[🍁 MRWEEBEE | AMERICA FIRST CU  | CLIENT : 🍁]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : 256735525
+# PASSWORD   : Stelat62?!
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+# LANGUAGE   : 
+# BROWSER    : Handheld Browser
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 154.160.26.22
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : Accra
+# TIMEZONE   : Africa/Accra, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : Ghana, GH
+# REGION     : 
+# DATE       : 09:57:36 29/09/2022
+# TIME       : 
+# ISP        : 
+**********************************************
+[🍁 MRWEEBEE | AMERICA FIRST CU   | CLIENT : 🍁]
+
+********** [ 💻 RELOGIN DETAILS 💻 ] **********
+# USERNAME   : 53636735
+# PASSWORD   : stella52?!
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+# LANGUAGE   : 
+# BROWSER    : Handheld Browser
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 154.160.26.22
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : Accra
+# TIMEZONE   : Africa/Accra, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : Ghana, GH
+# REGION     : 
+# DATE       : 09:57:55 29/09/2022
+# TIME       : 
+# ISP        : 
+**********************************************
